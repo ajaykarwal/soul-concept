@@ -1,8 +1,19 @@
 body {
-  font-family: "Rubik", sans-serif;
+  font-family: "Sen", sans-serif;
+  background-color: #081017;
+  color: #ffffff;
+  font-size: 1.125rem;
 }
 
 h1 {
   font-weight: 700;
   text-transform: uppercase;
+}
+
+.logo {
+  max-width: 340px;
+}
+
+hr {
+  margin: 2rem 0;
 }
